@@ -1,0 +1,1 @@
+const howManyHundreds = num => Math.floor(num /100);
